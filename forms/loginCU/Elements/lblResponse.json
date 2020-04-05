@@ -15,7 +15,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 5,
   "hidden": "",
   "id": "lblResponse",
   "labelStyle": "text",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 230,
-  "value": "Label",
+  "top": "295",
+  "value": "",
   "width": "auto"
 }

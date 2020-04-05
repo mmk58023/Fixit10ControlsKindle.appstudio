@@ -16,7 +16,7 @@
         "forms",
         "loginCU",
         "Elements",
-        "inptNetID.json"
+        "txtNetID.json"
       ]
     },
     {
@@ -52,7 +52,7 @@
         "forms",
         "loginCU",
         "Elements",
-        "inpPassword.json"
+        "txtPassword.json"
       ]
     }
   ],
