@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnShortcut",
-  "left": 137,
+  "left": 123,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 348,
+  "top": 196,
   "value": "Shortcut to favFoods",
-  "width": "auto"
+  "width": 199
 }
