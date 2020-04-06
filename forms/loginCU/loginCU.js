@@ -23,7 +23,7 @@ req = Ajax("http://radlab.creighton.edu/appStudio/authLDAP.php", "POST", "j_user
 
 if (req.responseText == 1) { //everything worked.
     ChangeForm(favFoods)
-} else {
+  } else {
     //had a problem with login
     txtNetID.value = ""
     txtPassword.value = ""
