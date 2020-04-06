@@ -14,9 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "favExercises",
+        "ABfavExercises",
         "Elements",
         "selExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "modSelectedExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnShowSelection.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnMobileNav.json"
       ]
     }
   ],
@@ -26,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "favExercises",
+  "id": "ABfavExercises",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
