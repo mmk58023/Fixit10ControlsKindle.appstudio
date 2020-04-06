@@ -15,7 +15,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 5,
+  "height": "auto",
   "hidden": "",
   "id": "lblResponse",
   "labelStyle": "text",

@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnShortcut",
-  "left": "123",
+  "id": "btnNextPage",
+  "left": 154,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnShortcut.onclick()",
+  "onclick": "btnNextPage.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": "196",
-  "value": "Shortcut to favFoods",
-  "width": "199"
+  "top": 398,
+  "value": "Next Page",
+  "width": 168
 }

@@ -2,7 +2,7 @@
 //In case login doesn't work
 
 btnShortcut.onclick=function(){
-  ChangeForm(favFoods)
+ ChangeForm(favFoods) 
 }
 
 //clear variables
@@ -14,7 +14,7 @@ loginCU.onshow=function(){
 
 btnLogin.onclick=function(){
   //Declare global variables
-
+  
 var req = ""
 
 //AJAX
