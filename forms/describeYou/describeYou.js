@@ -3,5 +3,5 @@ rdoDescribeYou.onclick=function(){
 }
 
 btnABfavExercises.onclick=function(){
-  ChangeForm(ABfavExercises)
+  ChangeForm(favExercises)
 }
