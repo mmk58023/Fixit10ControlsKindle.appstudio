@@ -3,6 +3,7 @@ let forms = ["Login", "Favorite Foods", "Dessert Voting", "Describe Me", "Favori
 
 
 mobileNav.onshow=function(){
+  //always clear before populating
   hmbMenu.clear()
   //put array of forms in the dropdown
   for (i = 0; i <= forms.length - 1; i++)
